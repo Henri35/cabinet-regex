@@ -1,0 +1,74 @@
+LOGO
+----
+
+1, 2 - corporate minimalistic logo with sense of progress concept. Black background
+
+3 - 3 lines concept simple minimalist corporate logo, colorful gradients, flat, simple design, modern, black background
+
+4 - minimalist abstract contept logo for hi-tech luxury corporate, simple flat, color gradients, futuristic, modern, black background
+
+5 - corporate brand logo of new technology speed concept, geometric lines, very simple, minimalist, detailed, black background
+
+6 - abstract geometric logo for a scifi technology company, simple, minimalist, futuristic, black background
+
+
+
+BANNIERES PAGE ACCUEIL
+----------------------
+
+1 - abstract lines background dark --ar 16:9
+
+2 - Corporate marketing trustful expert at your service, in office. Looking forward --ar 16:9 
+
+3 - The marketing corporate expert you can trust. Dark light office background. Futuristic, trustful, confident. --ar 16:9
+
+4 - abstract data, future, evolution, laser, progress, corporate, content. Dark light --ar 16:9
+
+5 - marketing corporate with electronic circuit intelligence --ar 24:9
+
+
+
+ILLUSTRATIONS SERVICES
+----------------------
+
+# Rédaction
+
+1 - robot arm, hand writing with pen on paper, modern isometric lowpoly minimalistic icon style with plain light blue background --ar 13:10 
+
+
+# Réseaux et publicité
+
+2 - robot hand touching mobile screen displaying colorful social media apps icons, modern isometric lowpoly simple minimalistic icon style with plain light blue background --ar 13:10
+
+# Formations marketing
+
+3 - robot arm, hand writing on wall board for teaching modern isometric lowpoly minimalistic icon style with plain light blue background --ar 13:10
+
+
+
+BANNIERE A PROPOS
+-----------------
+
+1 - future corporate agency. Futurism. --ar 22:9
+
+2 - future corporate agency. --ar 22:9
+
+3 - Marketing meeting room with corporate team, modern architecture. --ar 26:9
+
+4 - Meeting room with finance professionals team, modern architecture. --ar 26:9
+
+
+
+BANNIERE ARTICLE
+----------------
+
+1 - artificial intelligence, futuristic, laser, speed. Light and colorful background --ar 20:9
+
+2 - female artificial intelligence, technology, futuristic, laser, speed, with a bright light background. --no dark background --ar 34:9
+
+3 - artificial intelligence, futuristic, laser, speed. Bright light background. by Iwan Baan. --no dark background --ar 30:9
+
+
+
+
+
